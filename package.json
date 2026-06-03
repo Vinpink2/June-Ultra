@@ -52,6 +52,7 @@
         "node-fetch": "^2.7.0",
         "node-webpmux": "^3.2.1",
         "pdf-parse": "^2.4.5",
+        "puppeteer": "^22.12.1",
         "pdfkit": "^0.18.0",
         "pino": "^9.0.0",
         "qrcode": "^1.5.3",
