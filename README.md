@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="BLACK FIRE"> 
   <strong>𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔</strong>
   <br>
   <a href="https://git.io/typing-svg"> 
