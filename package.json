@@ -19,14 +19,14 @@
     "author": "Agent of Dusk",
     "license": "MIT",
     "engines": {
-        "node": ">=20.x"
+        "node": ">=18.x"
     },
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
         "@bochilteam/scraper-facebook": "^5.0.0",
         "@bochilteam/scraper-tiktok": "^5.0.0",
         "@vitalets/google-translate-api": "^9.2.1",
-        "@whiskeysockets/baileys": "^7.0.0-rc.13",
+        "@whiskeysockets/baileys": "7.0.0-rc13",
         "adm-zip": "^0.5.16",
         "awesome-phonenumber": "^7.8.0",
         "axios": "^1.7.2",
