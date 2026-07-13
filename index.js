@@ -184,8 +184,19 @@ function spawnBot(attempt = 1) {
         installExitGuard();
         // Shield the session folder from being deleted by the bot's own code
         installSessionGuard(path.join(botRepoPath, 'session'));
+        // On Heroku, process.env.PORT is the port our Express server already owns.
+        // If the bot's index.js also reads PORT to start its own HTTP server it
+        // will get EADDRINUSE and likely call process.exit, killing the dashboard.
+        // Strip PORT from the environment so the bot falls back to its own default.
+        const _savedPort = process.env.PORT;
+        delete process.env.PORT;
         process.chdir(botRepoPath);
-        require(path.join(botRepoPath, 'index.js'));
+        try {
+            require(path.join(botRepoPath, 'index.js'));
+        } finally {
+            // Restore so any code in our own process still sees the real port
+            if (_savedPort !== undefined) process.env.PORT = _savedPort;
+        }
     } catch (err) {
         console.error(`[ BOT ] Launch error (attempt ${attempt}/${MAX_ATTEMPTS}): ${err.message}`);
         if (attempt < MAX_ATTEMPTS) {
