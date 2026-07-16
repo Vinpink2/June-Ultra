@@ -23,7 +23,7 @@
 
 | Action | Link |
 |--------|------|
-| **Fork Repository** | <a href="https://github.com/Vinpink2/June-Ultra/fork"><img src="https://img.shields.io/badge/Fork%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+| **Fork Repository** | <a href="https://github.com/Vinpink2/June-Ultra/fork"><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
 | **Download ZIP** | <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
 
 </div>
@@ -51,9 +51,9 @@
 
 | Method | Button |
 |--------|--------|
-| **Pair Code 1** | <a href="https://pair-junex.onrender.com/"><img src="https://img.shields.io/badge/Pair%20Code%20%231-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **Pair Code 2** | <a href="https://pairjune.xwolf.space/"><img src="https://img.shields.io/badge/Pair%20Code%20%232-FF8C00?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **QR Code** | <a href="https://pair-junex-code-5b6454f71d47.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20Code-007BFF?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **Pair Code 1** | <a href="https://pair-junex.onrender.com/"><img src="https://img.shields.io/badge/Pair%20Code%20%231-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **Pair Code 2** | <a href="https://pairjune.xwolf.space/"><img src="https://img.shields.io/badge/Pair%20Code%20%232-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **QR Code** | <a href="https://pair-junex-code-5b6454f71d47.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20Code%20%233-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
