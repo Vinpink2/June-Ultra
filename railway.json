@@ -13,7 +13,7 @@
   },
   "variables": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your session token (june-ultra:~...) from the pairing page",
+      "description": "REQUIRED: Your session token (JUNE~...) from the pairing page",
       "required": true
     },
     "REPO_URL": {
