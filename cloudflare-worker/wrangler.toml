@@ -1,0 +1,24 @@
+name = "june-bot-cf"
+type = "javascript"
+account_id = "YOUR_ACCOUNT_ID_HERE"
+workers_dev = true
+main = "src/index.js"
+
+[[kv_namespaces]]
+binding = "BOT_KV"
+id = "YOUR_KV_NAMESPACE_ID"
+preview_id = "YOUR_PREVIEW_KV_ID"
+
+[build]
+command = "npm install"
+package-manager = "npm"
+
+[build.upload]
+format = "service-worker"
+
+[env.production]
+name = "june-bot-prod"
+vars = { ENVIRONMENT = "production" }
+kv_namespaces = [
+  { binding = "BOT_KV", id = "YOUR_PROD_KV_ID", preview_id = "YOUR_PROD_PREVIEW_KV_ID" }
+]
