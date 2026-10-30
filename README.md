@@ -68,7 +68,7 @@
 | Platform | Link |
 |----------|------|
 | **WhatsApp Group 1** | <a href="https://chat.whatsapp.com/Km0ShKvOhH63PK0JpcQTH0"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> |
-| **Join Group 2** | <a href="https://chat.whatsapp.com/EgdPpO8uq3SDpNuzXxPEqC"<img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> |
+| **Join Group 2** | <a href="https://chat.whatsapp.com/EgdPpO8uq3SDpNuzXxPEqC"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> |
 | **YouTube** | <a href="https://www.youtube.com/@Suprem_e_Lord"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> |
 | **Telegram** | <a href="https://t.me/supremLord"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a> |
 </div>
