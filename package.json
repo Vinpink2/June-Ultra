@@ -17,10 +17,6 @@
         "bot",
         "baileys"
     ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Vinpink2/June-Ultra.git"
-    },
     "author": "Supreme (Agent of Dusk)",
     "license": "MIT",
     "engines": {
