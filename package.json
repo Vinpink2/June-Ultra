@@ -25,7 +25,7 @@
     },
     "dependencies": {
         "@napi-rs/canvas": "^0.1.68",
-        "@whiskeysockets/baileys": "npm:junexbaileys@1.0.6",
+        "@whiskeysockets/baileys": "npm:junexbaileys@1.0.7",
         "adm-zip": "^0.5.18",
         "awesome-phonenumber": "^7.8.0",
         "axios": "^1.19.0",
